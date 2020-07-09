@@ -1,16 +1,21 @@
-### Hi there 👋
+### Holla 👋
 
-<!--
-**fakela/fakela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I love to code, write and share knowledge 🤓. I am an active open source contributor,help build technical communities
+ and speaking at conferences. I create technical content on my [Blog](https://medium.com/@favourkelvin17).
+
+
+- 💬 Ask me about: Documentation, Web Engineering and FOSS
+- 📫 How to reach me: Via DM [@fakela6](https://twitter.com/Fakela6)
+- 😄 Pronouns:She/Her
+- ⚡ Fun fact: I am super amazing at what i do
+
+Useful Links 👁
+
+- [Linkedin](https://www.linkedin.com/in/favour-kelvin/)
+- [Twitter](https://twitter.com/Fakela6)
+- [Blog](https://medium.com/@favourkelvin17)
+- [Github](https://github.com/fakela)
+
+

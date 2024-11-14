@@ -12,8 +12,7 @@
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact: I am super amazing at what i do
 
-Useful Links 👁
-
+## Useful Links 👁
 - [Linkedin](https://www.linkedin.com/in/favour-kelvin/)
 - [Twitter](https://twitter.com/Fakela6)
 - [Blog](https://medium.com/@favourkelvin17)

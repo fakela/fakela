@@ -7,7 +7,7 @@ I'm particularly interested in writing documentation that works well for both **
 Things I tend to talk about:
 
 - Documentation systems and information architecture  
-- Doc tooling — CLIs, generators, and interactive components  
+- Doc tooling like CLIs, generators, interactive components, etc
 - API specifications and structured documentation  
 - Developer and customer education through documentation  
 

@@ -1,18 +1,26 @@
-### Holla 👋
+## Hi — I'm Favour Kelvin
 
+I'm a technical writer who spends a lot of time thinking about information architecture, documentation systems, and getting developers from **question → answer** as quickly as possible.
 
+I'm particularly interested in writing documentation that works well for both **humans and AI**, and in the tooling that helps technical writers move faster.
 
- I love to code, write, and share knowledge 🤓. I am an active open source contributor, help build technical communities and speaks at conferences. I create technical content on my [Blog](https://medium.com/@favourkelvin17).
+### Things I tend to talk about
 
-- 💬 Ask me about: Documentation, Web Engineering and FOSS
-- 📫 How to reach me: Via DM [@fakela6](https://twitter.com/Fakela6)
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact: I am super amazing at what i do
+- Documentation systems and information architecture  
+- Doc tooling — CLIs, generators, and interactive components  
+- API specifications and structured documentation  
+- Developer and customer education through documentation  
 
-## Useful Links 👁
-- [Linkedin](https://www.linkedin.com/in/favour-kelvin/)
-- [Twitter](https://twitter.com/Fakela6)
-- [Blog](https://medium.com/@favourkelvin17)
-- [Github](https://github.com/fakela)
+I also contribute to open-source documentation, including work with **Mautic** and **TON**.
 
+Lately I've also been learning more about cloud and infrastructure. I think the best technical writers understand the systems they document, not just the words around them.
 
+### Writing
+
+I publish **how-to guides around documentation tooling and developer workflows**, along with **documentation breakdowns and process write-ups**:
+
+- Blog: https://medium.com/@favourkelvin17
+
+### Connect
+
+- LinkedIn: https://www.linkedin.com/in/favour-kelvin/
